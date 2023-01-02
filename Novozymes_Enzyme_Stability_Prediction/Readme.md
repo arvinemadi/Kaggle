@@ -9,5 +9,7 @@ Tried many things on the process and the notebook has been cleaned up. Things tr
 
 Although it may not work and we cannot get good score from leaderboad, it was a good excersice to try different things. In the process learnt a lot about memory management and clean-up for cuda and become much faster in setting up dataloaders and training with pytorch.
 
+Notebook still needs some cleaning and will be updated
+
 
 
